@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Form1.resources
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Formistatistik.resources
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmChart.resources
+C:\Users\Admin\Desktop\C# dersleri\Veri Tabanı ile Birlikte\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGiris.resources
